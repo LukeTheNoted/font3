@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Improveed",
+    "previewText": "random font i improved ig",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-Bold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-BoldItalic": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-ExtraBold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-ExtraBoldItalic": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-Medium": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-MediumItalic": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-Normal": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-NormalItalic": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-Semibold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "ggsans-SemiboldItalic": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "NotoSans-Bold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "NotoSans-ExtraBold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "NotoSans-Medium": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "NotoSans-Normal": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "NotoSans-NormalItalic": "link",
+        "NotoSans-Semibold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true",
+        "SourceCodePro-Semibold": "https://github.com/LukeTheNoted/font3/blob/main/MyHandwriting_2026-08-04_1238-Regular.ttf?raw=true"
+    }
+}
